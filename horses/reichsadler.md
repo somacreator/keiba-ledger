@@ -1,29 +1,3 @@
-##ライヒスアドラー
-
-■更新区分
-新規作成
-
-■出力形式
-全文
-
-■台帳化対象馬
-ライヒスアドラー
-
-■対象ファイル
-horses/reichsadler.md
-
-■horses/index.md 更新
-必要
-
-■horses/index.md 追加リンク
-
-* ライヒスアドラー
-
-■貼り付け先
-horses/reichsadler.md
-
-■貼り付け用Markdown
-
 ライヒスアドラー
 
 更新情報
